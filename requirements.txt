@@ -1,0 +1,3 @@
+pandas
+-e git+https://github.com/tl-its-umich-edu/api-utils-python@v1.3#egg=umich-api
+
