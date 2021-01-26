@@ -1,10 +1,10 @@
 {
 
-    "API_BASE_URL" : "",
+    "API_BASE_URL" : "https://apigw.it.umich.edu/um",
     "API_CLIENT_ID" : "",
     "API_CLIENT_SECRET" : "",
-    "API_SCOPE_PREFIX" : "",
-    "API_SUBSCRIPTION_NAME" : "",
+    "API_SCOPE_PREFIX" : "aa/CanvasReadOnly",
+    "API_SUBSCRIPTION_NAME" : "canvasreadonly",
     "MAX_REQ_ATTEMPTS" : 3
 }
 
